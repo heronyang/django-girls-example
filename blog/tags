@@ -1,0 +1,14 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+admin	/Users/heron/Project/djangogirls/blog/admin.py	/^from django.contrib import admin$/;"	i	language:Python
+author	/Users/heron/Project/djangogirls/blog/models.py	/^    author = models.ForeignKey('auth.User')$/;"	v	language:Python	class:Post
+created_date	/Users/heron/Project/djangogirls/blog/models.py	/^    created_date = models.DateTimeField($/;"	v	language:Python	class:Post
+default	/Users/heron/Project/djangogirls/blog/models.py	/^            default=timezone.now)$/;"	v	language:Python	class:Post
+models	/Users/heron/Project/djangogirls/blog/models.py	/^from django.db import models$/;"	i	language:Python
+Post	/Users/heron/Project/djangogirls/blog/admin.py	/^from .models import Post$/;"	i	language:Python
+Post	/Users/heron/Project/djangogirls/blog/models.py	/^class Post(models.Model):$/;"	c	language:Python
+publish	/Users/heron/Project/djangogirls/blog/models.py	/^    def publish(self):$/;"	m	language:Python	class:Post
+published_date	/Users/heron/Project/djangogirls/blog/models.py	/^    published_date = models.DateTimeField($/;"	v	language:Python	class:Post
+text	/Users/heron/Project/djangogirls/blog/models.py	/^    text = models.TextField()$/;"	v	language:Python	class:Post
+timezone	/Users/heron/Project/djangogirls/blog/models.py	/^from django.utils import timezone$/;"	i	language:Python
+title	/Users/heron/Project/djangogirls/blog/models.py	/^    title = models.CharField(max_length=200)$/;"	v	language:Python	class:Post
+__str__	/Users/heron/Project/djangogirls/blog/models.py	/^    def __str__(self):$/;"	m	language:Python	class:Post	file:

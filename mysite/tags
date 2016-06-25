@@ -1,0 +1,20 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ALLOWED_HOSTS	/Users/heron/Project/djangogirls/mysite/settings.py	/^ALLOWED_HOSTS = []$/;"	v	language:Python
+AUTH_PASSWORD_VALIDATORS	/Users/heron/Project/djangogirls/mysite/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	v	language:Python
+BASE_DIR	/Users/heron/Project/djangogirls/mysite/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	v	language:Python
+DATABASES	/Users/heron/Project/djangogirls/mysite/settings.py	/^DATABASES = {$/;"	v	language:Python
+DEBUG	/Users/heron/Project/djangogirls/mysite/settings.py	/^DEBUG = True$/;"	v	language:Python
+INSTALLED_APPS	/Users/heron/Project/djangogirls/mysite/settings.py	/^INSTALLED_APPS = [$/;"	v	language:Python
+LANGUAGE_CODE	/Users/heron/Project/djangogirls/mysite/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v	language:Python
+MIDDLEWARE_CLASSES	/Users/heron/Project/djangogirls/mysite/settings.py	/^MIDDLEWARE_CLASSES = [$/;"	v	language:Python
+os	/Users/heron/Project/djangogirls/mysite/settings.py	/^import os$/;"	i	language:Python
+ROOT_URLCONF	/Users/heron/Project/djangogirls/mysite/settings.py	/^ROOT_URLCONF = 'mysite.urls'$/;"	v	language:Python
+SECRET_KEY	/Users/heron/Project/djangogirls/mysite/settings.py	/^SECRET_KEY = ')5&j^h*ry-d8^7@(7(xdl#&0$s7)ydnrk+8fhwlzj$yavvjyux'$/;"	v	language:Python
+STATIC_ROOT	/Users/heron/Project/djangogirls/mysite/settings.py	/^STATIC_ROOT = os.path.join(BASE_DIR, 'static')$/;"	v	language:Python
+STATIC_URL	/Users/heron/Project/djangogirls/mysite/settings.py	/^STATIC_URL = '\/static\/'$/;"	v	language:Python
+TEMPLATES	/Users/heron/Project/djangogirls/mysite/settings.py	/^TEMPLATES = [$/;"	v	language:Python
+TIME_ZONE	/Users/heron/Project/djangogirls/mysite/settings.py	/^TIME_ZONE = 'Asia\/Taipei'$/;"	v	language:Python
+USE_I18N	/Users/heron/Project/djangogirls/mysite/settings.py	/^USE_I18N = True$/;"	v	language:Python
+USE_L10N	/Users/heron/Project/djangogirls/mysite/settings.py	/^USE_L10N = True$/;"	v	language:Python
+USE_TZ	/Users/heron/Project/djangogirls/mysite/settings.py	/^USE_TZ = True$/;"	v	language:Python
+WSGI_APPLICATION	/Users/heron/Project/djangogirls/mysite/settings.py	/^WSGI_APPLICATION = 'mysite.wsgi.application'$/;"	v	language:Python
